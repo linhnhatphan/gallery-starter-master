@@ -1,0 +1,96 @@
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 3.125rem;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  line-height: 23px;
+}
+
+body {
+  width: 640px;
+  height: 1500px;
+  margin: 0 auto;
+}
+
+.full-img {
+  position: relative;
+  display: block;
+  width: 640px;
+  height: 480px;
+}
+.displayed-img {
+  position:relative;
+  display:block;
+  width: 640px;
+}
+.profile-pic {
+  clear: left;
+  float:left;
+  width:224px;
+  margin: 0 20px 0 0;
+}
+.thumb-bar img {
+  position: relative;
+  display: block;
+  width: 20%;
+  float:left;
+  cursor: pointer;
+}
+
+#artworks {
+  margin-top:100px;
+}
+
+  nav li {
+    display: inline-grid;
+    list-style:none;
+    border:3px black solid;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 30%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  nav ul {
+    padding-left: 0;
+  }
+header {
+  position: top;
+  width:640px;
+  top: 0;
+  text-align: center;
+  background-color: white;
+}
+#about_me {
+  margin-top: 50px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  color: #A0522D;
+}
+
+footer {
+  margin-top: 200px;
+}
+footer li{
+  display: inline-grid;
+  list-style:none;
+  border:3px black solid;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  text-align: center;
+  width: 30%;
+
+}

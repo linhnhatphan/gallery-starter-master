@@ -1,0 +1,28 @@
+body {
+  width: 640px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 3.125rem;
+  letter-spacing: 10px;
+  text-align: center;
+}
+ h2 {
+   font-family: 'Bebas Neue', sans-serif;
+   font-size: 1.5rem;
+   letter-spacing: 1px;
+   margin-top: 20px auto;
+ }
+
+form {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  width: 400px;
+  float:left;
+}
+img {
+  width: 240px;
+  float: left;
+}
